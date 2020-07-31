@@ -24,7 +24,7 @@ def consolidate_cart(cart)
   i = 0 
   while i < cart.length do 
     cart.each do |value|
-      if value[:item] = 
+      
     end
   end
     
